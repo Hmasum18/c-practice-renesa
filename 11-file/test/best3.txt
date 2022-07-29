@@ -1,0 +1,5 @@
+1 Kabir 10 9 7.5 
+2 Rahim 10 7.3 2 
+3 Karim 10 5 5 
+4 Sumi 9 7 0 
+5 Rumi 10 10 9 
